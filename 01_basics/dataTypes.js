@@ -2,7 +2,7 @@
 
 let num = 99; // its a numeric value like int its limit from 2 to power 54
 
-let big = 999999999999999; //its very high value its veryu rearly using in the project when we have large value.
+let big = 999999999999999n; //its very high value its veryu rearly using in the project when we have large value.
 
 let na ="Nitesh"; //its a String type
 let n = null; // its also the String type but here we are not define the string value here in javascript null is the object
