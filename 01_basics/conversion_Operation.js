@@ -27,5 +27,14 @@ let valueOfisLoggedIn = Boolean(isLoggedIn);
 // Converting in String
 let someNumber = 99; 
 let valueOfSomeNumber = String(someNumber);
-console.log(typeof valueOfSomeNumber);
-console.log(valueOfSomeNumber);
+// console.log(typeof valueOfSomeNumber);
+// console.log(valueOfSomeNumber);
+
+let str1 = "Hello";
+let str2 = " Nitesh";
+let str3 = str1 + str2;
+console.log(str3);
+console.log(1 +"2");
+console.log("1" +2);
+console.log("1" +2 +2 );
+console.log(1 +2 +"2" );
